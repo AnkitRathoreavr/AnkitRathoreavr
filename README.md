@@ -26,7 +26,7 @@
   </p>
 
 
-<p >Passionate Web Developer, Security Engineer seeking a beginner role to enhance and explore my technical knowledge gained at NMIT Bengaluru in the last three years. Self-Motivated and cheerful. Skilled in Java and C++ programming languages. Ready to help the team achieve company goals😁
+<p >Passionate Web Developer, Security Engineer seeking a beginner role to enhance and explore my technical knowledge gained at NMIT Bengaluru in the last three years. Self-Motivated and cheerful. Skilled in web development and infrastracture . Ready to help the team achieve company goals😁
 </p>
 
 
@@ -218,9 +218,9 @@
 
 ##   
 
-- 👀 I’m interested in Java programming and web development
-- 🌱 I’m currently learning Machine Learning 
+- 👀 I’m interested in web development and Infrastructure
+- 🌱 I’m currently learning cloud  computing and virtualisation
 - 💞️ I’m looking to collaborate on any development project 
-- 📫 How to reach me: aryanarora2929@gmail.com
+- 📫 How to reach me: meetankitrathore18@gmail.com
 
 

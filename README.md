@@ -11,16 +11,12 @@
   <a href="mailto:aryanarora2929@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
-   <a href="https://www.linkedin.com/in/aryan1229" target="_blank">
+   <a href="https://www.linkedin.com/in/ankit-rathore-19b660146" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
  
-  </a>  
-  <a href="https://www.instagram.com/a_r_.y._a_n" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
-    </a>
-
-  <a href="https://github.com/aryanarora29" target="_blank">
+  
+  <a href="https://github.com/AnkitRathoreavr" target="_blank">
       <img src="https://img.shields.io/badge/Medium-black.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="example"/>
     </a>
   </p>
@@ -62,9 +58,7 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  </a>
+
  
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -80,9 +74,7 @@
 
 ### Framework
 <p  
-  <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </a>
+  
 
 
   <a href="" target="_blank">
@@ -115,10 +107,7 @@
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
    </a>
 
-   <a href="" target="_blank">
-    <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-   </a>
-
+   
 
  </p>
 
@@ -143,13 +132,7 @@
   <a href="" target="_blank">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   </a>
-   <a href="" target="_blank">
-    <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-  </a> 
 
-  <a href="" target="_blank">
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
 
 
 
@@ -192,7 +175,7 @@
 
 ## Projects
 
-<a href="https://github.com/aryanarora29/path-visualizer">
+<a href="https://github.com/AnkitRathoreavr/Pathfinding_Visualizer">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
@@ -200,7 +183,7 @@
 
 </a>  
 
-<a href="https://github.com/aryanarora29/Homomorphic-Encryption">
+<a href="https://github.com/AnkitRathoreavr/Railway_Reservation_System">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanarora29&repo=Homomorphic-Encryption&theme=dark"/>
 
